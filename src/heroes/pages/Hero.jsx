@@ -29,7 +29,7 @@ export const Hero = () => {
 
                     <div className="col-md-6">
                         <img 
-                            src={`/heroes/${id}.jpg`} 
+                            src={`/assets/heroes/${id}.jpg`} 
                             className="img-fluid rounded-start animate__animated animate__fadeInLeft" alt="Img Superhero"
                             style={{width: '100%', height: '100%'}} />
                     </div>
