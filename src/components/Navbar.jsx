@@ -1,8 +1,8 @@
 import { useContext } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../auth/context';
-import imgMarvel from '../heroes/pages/img/Marvel.jpg'
-import imgDc from '../heroes/pages/img/dc.jpg'
+import imgMarvel from '../../docs/assets/marvel.jpg';
+import imgDc from '../../docs/assets/dc.jpg';
 
 
 export const Navbar = () => {
