@@ -9,7 +9,7 @@ export const HeroCard = ({
     characters,
 }) => {
 
-    const heroImageUrl = `/docs/heroes/${id}.jpg`;
+    const heroImageUrl = `/public/heroes/${id}.jpg`;
 
 
     return (
