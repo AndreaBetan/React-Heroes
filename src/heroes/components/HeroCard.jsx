@@ -9,7 +9,7 @@ export const HeroCard = ({
     characters,
 }) => {
 
-    const heroImageUrl = `https://github.com/AndreaBetan/React-Heroes/assets/heroes/${id}.jpg`;
+    const heroImageUrl = `/assets/heroes/${id}.jpg`;
 
 
     return (
