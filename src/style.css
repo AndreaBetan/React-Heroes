@@ -1,0 +1,42 @@
+body {
+    background: rgba(0, 0, 0, 0.955);
+}
+
+.card {
+    border-color: rgba(128, 128, 128, 0.329);
+}
+
+.container-form{
+    width: 50%;
+    margin-top: 120px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.img-marvel {
+    width: 150px;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+.img-dc {
+    width: 100px;
+    height: 80px;
+}
+
+.fa-searchengin {
+    color: orange;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.fa-circle-left{
+    color: #c35050;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.fa-circle-user {
+    color: orange;
+}
