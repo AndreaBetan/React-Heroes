@@ -7,7 +7,7 @@ import { PublicRoute } from "./PublicRoute"
 export const AppRouter = () => {
   return (
         <>
-          <HashRouter basename="/app">
+          <HashRouter>
             <Routes>
                 
                 <Route path='/login' element={
